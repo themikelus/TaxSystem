@@ -13,10 +13,10 @@
 
 ## Running Tests
 
-3. mvc test
+3. mvn test
 
 ## Running
 
-3. mvc package
+3. mvn package
 4. cd target
 5. java -cp TaxSystem-1.0-SNAPSHOT.jar com.challenge.InvoiceApp
