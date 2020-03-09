@@ -1,7 +1,22 @@
 [![Build Status](https://travis-ci.com/themikelus/TaxSystem.svg?branch=master)](https://travis-ci.com/themikelus/TaxSystem)
 
-Prerequisites
+## TAX System
+## Prerequisites
 
-How to run?
+* Java 1.8
+* Maven
 
-How to run tests?
+## Get the sources
+
+1. git clone
+2. cd TaxSystem
+
+## Running Tests
+
+3. mvc test
+
+## Running
+
+3. mvc package
+4. cd target
+5. java -cp TaxSystem-1.0-SNAPSHOT.jar com.challenge.InvoiceApp
